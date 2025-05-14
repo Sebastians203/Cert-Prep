@@ -6,3 +6,7 @@ body
 p{
     color: rgb(87, 145, 184);
 }
+.sale {
+    font-weight: bold;
+    background-color: brown;
+}
