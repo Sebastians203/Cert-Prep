@@ -1,8 +1,8 @@
 body
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
-    background-color: rgb(116, 199, 202);
+    background-color: rgb(130, 202, 116);
 } 
 p{
-    color: navy;
+    color: rgb(24, 24, 87);
 }
