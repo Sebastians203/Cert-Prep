@@ -3,6 +3,7 @@
     font-family:"Segoe UI",Tahoma,sans-serif;
     background-color:#fab66b;
 }
-p {
-    color: rgb(85, 85, 151);
+.sale{
+    font-weight: bold;
+    background-color: aqua;
 }
