@@ -16,10 +16,13 @@ figcaption {
     font-weight: bold;
     background-color: #AAEEFF;
     display:inline;
+    font-weight: bold;
 }
 .sale {
     font-weight: bold;
     background-color: #AAEEFF;
+    font-style: italic;
+    font-size: 16pt;
 }
 #sidenote {
     background-color: #DDDDDD;
