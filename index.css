@@ -54,8 +54,7 @@ body {
     font-size: 14px;
     border-style: dashed;
     border-color: lightgray;
-    border width: 1px;
-   
+    border-width: 1px;
 }
 
 .dropdown-content a:hover {
