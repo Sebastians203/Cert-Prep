@@ -52,6 +52,9 @@ body {
     color: #2c3e50;
     text-decoration: none;
     font-size: 14px;
+    border-style: dashed;
+    border-color: lightgray;
+    border width: 1px;
    
 }
 
