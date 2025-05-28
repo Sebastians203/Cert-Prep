@@ -32,8 +32,11 @@ figcaption {
     border-color:navy;
     width: 200px;
     height: 200px;
-    border-style: dashed;
-    border-width: 1px;
+    /*border-style: dashed;
+    border-width: 0px;
+    border-left-width: 2px;
+    border-right-width: 2px;*/
+    border: 2px solid navy;
 
 }
 a {
