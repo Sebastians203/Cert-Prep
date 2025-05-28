@@ -51,6 +51,8 @@ body {
 
 .dropdown-content a:hover {
     background-color: #f0f0f0;
+    border-style: groove;
+    border-color: navy;
 }
 
 .avatar{
