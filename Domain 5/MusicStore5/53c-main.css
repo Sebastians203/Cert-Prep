@@ -30,7 +30,10 @@ figcaption {
     background-color: #DDDDDD;
     display:inline;
     border-color:navy;
-    border-style:dashed;
+    width: 200px;
+    height: 200px;
+    border-style: dashed;
+    border-width: 1px;
 
 }
 a {
